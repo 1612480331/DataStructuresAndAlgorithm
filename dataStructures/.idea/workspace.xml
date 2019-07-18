@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9dd812e1-ad15-4b77-924d-fc726bf43838" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataStructures.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SingleLinkedList/Boy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SingleLinkedList/CircleList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SingleLinkedList/CircleMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SingleLinkedList/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SingleLinkedList/SingleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SingleLinkedList/SingleMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9dd812e1-ad15-4b77-924d-fc726bf43838" name="Default Changelist" comment="2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayStack/NumberStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayStack/NumberStackDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayStack/OperateStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BubblingSort/BubblingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Maze/Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Queue8/QueueDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,72 +24,67 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ArrayStack/NumberStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+            <state relative-caret-position="625">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SparseArray/SparseArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/CircleQueue/CircleQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="775">
-              <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SingleLinkedList/Hero.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SingleLinkedList/SingleLinkedList.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ArrayStack/OperateStack.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="400">
-              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+              <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SingleLinkedList/Boy.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ArrayStack/NumberStackDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-              <folding>
-                <element signature="e#136#137#0" expanded="true" />
-                <element signature="e#157#158#0" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#224#225#0" expanded="true" />
-              </folding>
+              <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Maze/Maze.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1225">
+              <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Queue8/QueueDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SingleLinkedList/CircleMain.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BubblingSort/BubblingDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            <state relative-caret-position="179">
+              <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15150">
+              <caret line="657" column="18" selection-start-line="657" selection-start-column="18" selection-end-line="657" selection-end-column="18" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#22786#22787#0" expanded="true" />
+                <element signature="e#22821#22822#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -102,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/SingleLinkedList/CircleList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="600">
-              <caret line="55" column="13" lean-forward="true" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+              <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#add#0;class#CircleList#0" />
@@ -155,6 +147,12 @@
         <option value="$PROJECT_DIR$/src/main/java/SingleLinkedList/Boy.java" />
         <option value="$PROJECT_DIR$/src/main/java/SingleLinkedList/CircleList.java" />
         <option value="$PROJECT_DIR$/src/main/java/SingleLinkedList/CircleMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ArrayStack/NumberStack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ArrayStack/OperateStack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ArrayStack/NumberStackDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Maze/Maze.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Queue8/QueueDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BubblingSort/BubblingDemo.java" />
       </list>
     </option>
   </component>
@@ -166,8 +164,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="300" />
-    <option name="y" value="10" />
+    <option name="x" value="267" />
+    <option name="y" value="6" />
     <option name="width" value="1385" />
     <option name="height" value="1005" />
   </component>
@@ -177,6 +175,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -209,7 +208,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="SingleLinkedList" type="462c0819:PsiDirectoryNode" />
+              <item name="BubblingSort" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dataStructures" type="b2602c69:ProjectViewProjectNode" />
@@ -219,7 +218,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,9 +225,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561778429461" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.36158192" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -247,7 +246,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CircleMain">
+  <component name="RunManager" selected="Application.BubblingDemo">
+    <configuration name="BubblingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubblingSort.BubblingDemo" />
+      <module name="dataStructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BubblingSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CircleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SingleLinkedList.CircleMain" />
       <module name="dataStructures" />
@@ -261,12 +273,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CircleQueue.Queue" />
+    <configuration name="Maze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Maze.Maze" />
       <module name="dataStructures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CircleQueue.*" />
+          <option name="PATTERN" value="Maze.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,12 +286,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SingleLinkedList.SingleMain" />
+    <configuration name="NumberStackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayStack.NumberStackDemo" />
       <module name="dataStructures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SingleLinkedList.*" />
+          <option name="PATTERN" value="ArrayStack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -287,12 +299,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SparseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SparseArray.SparseArray" />
+    <configuration name="QueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queue8.QueueDemo" />
       <module name="dataStructures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SparseArray.*" />
+          <option name="PATTERN" value="Queue8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,17 +313,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SparseArray" />
-      <item itemvalue="Application.Queue" />
-      <item itemvalue="Application.SingleMain" />
       <item itemvalue="Application.CircleMain" />
+      <item itemvalue="Application.NumberStackDemo" />
+      <item itemvalue="Application.Maze" />
+      <item itemvalue="Application.QueueDemo" />
+      <item itemvalue="Application.BubblingDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubblingDemo" />
+        <item itemvalue="Application.QueueDemo" />
+        <item itemvalue="Application.Maze" />
+        <item itemvalue="Application.NumberStackDemo" />
         <item itemvalue="Application.CircleMain" />
-        <item itemvalue="Application.SingleMain" />
-        <item itemvalue="Application.Queue" />
-        <item itemvalue="Application.SparseArray" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +345,16 @@
       <workItem from="1561775404602" duration="1796000" />
       <workItem from="1561779368305" duration="684000" />
       <workItem from="1561780167899" duration="10102000" />
-      <workItem from="1561793506746" duration="5611000" />
+      <workItem from="1561793506746" duration="5806000" />
+      <workItem from="1561885758897" duration="9214000" />
+      <workItem from="1561954954284" duration="903000" />
+      <workItem from="1561978198080" duration="631000" />
+      <workItem from="1562075339177" duration="592000" />
+      <workItem from="1562119967394" duration="80000" />
+      <workItem from="1562240122944" duration="1254000" />
+      <workItem from="1562336584719" duration="3259000" />
+      <workItem from="1563371998074" duration="2353000" />
+      <workItem from="1563460878167" duration="2340000" />
     </task>
     <task id="LOCAL-00001" summary="2">
       <created>1561642499805</created>
@@ -340,18 +363,34 @@
       <option name="project" value="LOCAL" />
       <updated>1561642499805</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2">
+      <created>1561800016109</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1561800016109</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27786000" />
+    <option name="totallyTimeSpent" value="48607000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16510066" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49788135" visible="true" weight="0.13624161" />
+      <window_info id="Structure" order="1" sideWeight="0.50211865" side_tool="true" weight="0.16442953" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -359,16 +398,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.328125" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2940341" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32954547" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32954547" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.19744319" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3252841" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32102272" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -385,11 +424,28 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2" />
     <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SparseArray/SparseArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -418,6 +474,74 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SingleLinkedList/Boy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SingleLinkedList/CircleMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArrayStack/NumberStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArrayStack/OperateStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArrayStack/NumberStackDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="55" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Maze/Maze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1225">
+          <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15150">
+          <caret line="657" column="18" selection-start-line="657" selection-start-column="18" selection-end-line="657" selection-end-column="18" />
+          <folding>
+            <element signature="e#22786#22787#0" expanded="true" />
+            <element signature="e#22821#22822#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SingleLinkedList/CircleList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#add#0;class#CircleList#0" />
+            <element signature="method#show#0;class#CircleList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SingleLinkedList/SingleMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -432,45 +556,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Queue8/QueueDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        <state relative-caret-position="450">
+          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SingleLinkedList/Boy.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/BubblingSort/BubblingDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding>
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SingleLinkedList/CircleList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="55" column="13" lean-forward="true" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#add#0;class#CircleList#0" />
-            <element signature="method#show#0;class#CircleList#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SingleLinkedList/CircleMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="179">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -531,6 +627,7 @@
             <option name="proportions">
               <list>
                 <option value="0.36158192" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
